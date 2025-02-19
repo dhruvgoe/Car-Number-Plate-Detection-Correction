@@ -76,6 +76,12 @@ The project follows these steps:
 
 * View Results: The output image will show a bounding box around the detected plate with the recognized text displayed.
 
+## Results
+
+**Presicion**: 95.13%
+
+**Recall**: 85.88%
+
 ## Example Output
 
 Image:📷 (Car image with a visible Bounding Box on number plate)
